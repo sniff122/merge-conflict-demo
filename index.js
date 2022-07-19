@@ -1,6 +1,7 @@
 favFood = [
     "Lasagna",
     "Beef Pho", 
+    "Chicken Tikka Madras",
     "Fish"
 ]
 

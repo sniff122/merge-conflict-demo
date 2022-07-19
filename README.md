@@ -2,7 +2,7 @@
 
 ## Steps:
 
-1) Clone down this repo
+1) Fork this repo
 2) Make a new branch with your name 
 3) Modify the favFood adding your favourite favFood
 4) Push your changes up to the repo 

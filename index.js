@@ -1,7 +1,11 @@
 favFood = [
     "Lasagna",
     "Beef Pho",
-    "Vegan Beef Pho"
+    "Vegan Beef Pho",
+    "Apple Pie",
+    "Chicken Tikka Madras",
+    "Fish",
+    "Lobster"
 ]
 
 let parent = document.querySelector("#foodList")

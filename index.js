@@ -2,6 +2,7 @@ favFood = [
     "Lasagna",
     "Beef Pho",
     "Vegan Beef Pho",
+    "Fried Chicken",
     "Apple Pie",
     "Chicken Tikka Madras",
     "Fish",

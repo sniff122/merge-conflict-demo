@@ -1,6 +1,6 @@
 favFood = [
-    "Lasagna",
-    "Beef Pho",
+    "Venison",
+    "cauliflower",
     "Enter food here"
 ]
 

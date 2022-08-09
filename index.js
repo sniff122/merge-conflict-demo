@@ -1,9 +1,10 @@
 favFood = [
+    "Venison",
+    "cauliflower",
     "Lasagna",
     "Beef Pho",
     "Pizza",
     "Veggie pizza",
-    "pepperoni pizza,
     "pepperoni pizza",
     "Beef Burger",
 ]

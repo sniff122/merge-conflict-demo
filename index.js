@@ -1,11 +1,4 @@
 favFood = [
-    "Venison",
-    "cauliflower",
-    "Lasagna",
-    "Beef Pho",
-    "Curry",
-    "Pizza",
-    "Veggie pizza",
     "pepperoni pizza",
     "Beef Burger",
 ]

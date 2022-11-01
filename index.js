@@ -5,6 +5,7 @@ favFood = [
 
     "pepperoni pizza",
     "yaki udon",
+    "hot dog",
     "spaghetti",
     "Steak & Chips",
     "Chicken Fajitas",

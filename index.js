@@ -1,4 +1,8 @@
 favFood = [
+
+    "kebab",
+    "lamb preferably",
+
     "pepperoni pizza",
     "yaki udon",
     "spaghetti",

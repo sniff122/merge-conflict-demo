@@ -13,6 +13,7 @@ favFood = [
     "yaki udon",
     "tonkatsu ramen",
     "soup",
+    "chocolate cake",
     "Burger",
     "cheese cake"
 ]

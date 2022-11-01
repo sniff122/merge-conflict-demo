@@ -5,6 +5,7 @@ favFood = [
 
     "pepperoni pizza",
     "yaki udon",
+    "baked beans on toast",
     "hot dog",
     "spaghetti",
     "Steak & Chips",
@@ -13,7 +14,7 @@ favFood = [
     "tonkatsu ramen",
     "soup",
     "Burger",
-    "cheese cake",
+    "cheese cake"
 ]
 
 let parent = document.querySelector("#foodList")

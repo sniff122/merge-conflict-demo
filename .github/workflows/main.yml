@@ -1,0 +1,12 @@
+name: Actions
+on: [push]
+jobs:
+  a:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "hello world"
+      - run: touch a-file
+      - run: echo "some text" >> a-file
+      - run: cat a-file
+      - run: ls
+      - run: whoami

@@ -1,20 +1,6 @@
 favFood = [
-
-    "kebab",
-    "lamb preferably",
-
-    "pepperoni pizza",
     "yaki udon",
     "baked beans on toast",
-    "hot dog",
-    "spaghetti",
-    "Steak & Chips",
-    "Chicken Fajitas",
-    "yaki udon",
-    "tonkatsu ramen",
-    "soup",
-    "chocolate cake",
-    "Burger",
     "cheese cake"
 ]
 
